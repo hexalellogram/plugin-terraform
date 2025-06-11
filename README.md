@@ -1,6 +1,6 @@
 # plugin-terraform
 
-A Git aliases plugin for Fisher. Uses the same aliases as the [oh-my-zsh Terraform plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/terraform/terraform.plugin.zsh).
+A Terraform aliases plugin for Fisher. Uses the same aliases as the [oh-my-zsh Terraform plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/terraform/terraform.plugin.zsh).
 
 Installation with Fisher:
 
